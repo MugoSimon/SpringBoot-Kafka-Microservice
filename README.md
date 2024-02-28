@@ -61,7 +61,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Joke of the Day
+## Joke Of The Day
 
 Why did the developer go broke?
 
