@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("api/vi")
+@RequestMapping("/api/v1")
 public class OrderController {
-    private OrderProducer orderProducer;
+    private final OrderProducer orderProducer;
 
     public OrderController(OrderProducer orderProducer) {
         this.orderProducer = orderProducer;
