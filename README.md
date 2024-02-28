@@ -1,5 +1,3 @@
-:------------------------------------------------------------------------
-
 # Spring Boot Kafka Microservice
 
 Welcome to the Spring Boot Kafka Microservice project! This project orchestrates communication between multiple microservices including Email, Stock, Domain, and Order Services using Apache Kafka as the messaging backbone.
